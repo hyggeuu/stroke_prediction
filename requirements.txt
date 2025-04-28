@@ -1,7 +1,1 @@
-fastapi
-uvicorn[standard]
-joblib
-numpy
-pandas
-scikit-learn
-python-multipart
+
